@@ -1,0 +1,11 @@
+.cards{
+    display:flex;
+    display:block;
+    justify-content: center;
+    align-items: center;
+    width:400px;
+    height: 300px;
+    border:2px solid black;
+    text-align: center;
+    background-color: brown;
+}
